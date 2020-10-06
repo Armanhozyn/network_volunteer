@@ -1,0 +1,12 @@
+/* Register */
+.register__wrapper{
+    display: flex;
+    flex-direction: column;
+  }
+  .register__wrapper img{
+    margin: 0 auto;
+  }
+  
+  .register{
+    padding: 100px;
+  }

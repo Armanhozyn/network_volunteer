@@ -1,0 +1,17 @@
+body{
+    background: #FFFFFF;
+  }
+  
+  .log__in{
+    padding: 100px;
+    background: #FFFFFF;
+  }
+  
+.log__in button{
+    background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    border-radius: 25px;
+    padding: 15px 75px;
+    font-weight: bold;
+    }
+  

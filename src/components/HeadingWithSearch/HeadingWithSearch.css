@@ -1,0 +1,22 @@
+/* Heading with search box css */
+.heading__search{
+    text-align:center;
+    padding: 50px;
+  }
+  
+  .heading__search h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px
+  }
+  
+  .heading__search form {
+    justify-content: center;
+  }
+  
+  .heading__search form input{
+    border-radius: 10px 0px 0px 10px;
+  }
+  .heading__search form button{
+    border-radius: 0px 10px 10px 0px;
+  }
